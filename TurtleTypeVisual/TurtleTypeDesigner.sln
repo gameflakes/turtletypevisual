@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleTypeDesigner", "Assembly-CSharp.csproj", "{EE7FDFE8-1BF2-4641-547B-5A337D010116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleTypeDesigner", "Assembly-CSharp-Editor.csproj", "{11B2F82A-78D1-3AF0-C567-0A99CBBAF3EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE7FDFE8-1BF2-4641-547B-5A337D010116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7FDFE8-1BF2-4641-547B-5A337D010116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7FDFE8-1BF2-4641-547B-5A337D010116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7FDFE8-1BF2-4641-547B-5A337D010116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11B2F82A-78D1-3AF0-C567-0A99CBBAF3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B2F82A-78D1-3AF0-C567-0A99CBBAF3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B2F82A-78D1-3AF0-C567-0A99CBBAF3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B2F82A-78D1-3AF0-C567-0A99CBBAF3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
